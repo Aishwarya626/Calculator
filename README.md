@@ -22,7 +22,7 @@ A simple calculator project that performs basic arithmetic operations such as ad
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/Aishwarya626/calculator.git
 
 2. Navigate to the project directory:
    cd calculator
